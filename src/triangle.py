@@ -1,4 +1,4 @@
-from shape import Shape
+from src.shape import Shape
 from math import sqrt
 
 
